@@ -1,0 +1,171 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PrivacyAI - Free Privacy-First AI Tools</title>
+    <meta name="description" content="AI-powered privacy tools that run 100% on your server. Clean PII, summarize documents, generate emails. No data leaves your infrastructure.">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        :root { --bg: #030712; --surface: #0f172a; --border: #1e293b; --text: #f1f5f9; --muted: #94a3af; --accent: #6366f1; --accent2: #8b5cf6; --green: #22c55e; --yellow: #f59e0b; }
+        body { font-family: -apple-system, system-ui, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
+        .wrap { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+        
+        /* Nav */
+        nav { display: flex; justify-content: space-between; align-items: center; padding: 24px 0; border-bottom: 1px solid var(--border); margin-bottom: 60px; }
+        nav .logo { font-size: 1.3rem; font-weight: 700; background: linear-gradient(135deg, var(--accent), var(--accent2)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        nav a { color: var(--text); text-decoration: none; font-size: 0.9rem; }
+        nav .cta { background: var(--accent); padding: 8px 20px; border-radius: 8px; }
+        
+        /* Hero */
+        .hero { text-align: center; padding: 60px 0 80px; }
+        .hero h1 { font-size: 3rem; font-weight: 800; line-height: 1.1; margin-bottom: 20px; }
+        .hero h1 .gradient { background: linear-gradient(135deg, var(--accent), #a855f7, #ec4899); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .hero p { font-size: 1.2rem; color: var(--muted); max-width: 600px; margin: 0 auto 30px; }
+        .hero .buttons { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+        .btn { padding: 14px 28px; border-radius: 10px; text-decoration: none; font-weight: 600; transition: transform 0.2s, box-shadow 0.2s; }
+        .btn-primary { background: linear-gradient(135deg, var(--accent), var(--accent2)); color: white; box-shadow: 0 4px 20px rgba(99,102,241,0.3); }
+        .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 6px 30px rgba(99,102,241,0.4); }
+        .btn-secondary { background: var(--surface); border: 1px solid var(--border); color: var(--text); }
+        
+        /* Pricing */
+        .pricing { padding: 80px 0; }
+        .pricing h2 { text-align: center; font-size: 2rem; margin-bottom: 40px; }
+        .pricing-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+        .plan { background: var(--surface); border: 1px solid var(--border); border-radius: 16px; padding: 32px 24px; }
+        .plan.featured { border-color: var(--accent); box-shadow: 0 0 40px rgba(99,102,241,0.1); position: relative; }
+        .plan .badge { position: absolute; top: -12px; left: 50%; transform: translateX(-50%); background: var(--accent); color: white; font-size: 0.75rem; padding: 4px 16px; border-radius: 99px; }
+        .plan h3 { font-size: 1.1rem; margin-bottom: 8px; color: var(--muted); }
+        .plan .price { font-size: 2.5rem; font-weight: 800; margin-bottom: 4px; }
+        .plan .price span { font-size: 1rem; color: var(--muted); font-weight: 400; }
+        .plan .per { color: var(--muted); font-size: 0.9rem; margin-bottom: 24px; }
+        .plan ul { list-style: none; margin-bottom: 24px; }
+        .plan ul li { padding: 8px 0; font-size: 0.9rem; color: var(--muted); border-bottom: 1px solid var(--border); }
+        .plan ul li:last-child { border-bottom: none; }
+        .plan ul li::before { content: "✓ "; color: var(--green); }
+        .plan .get-btn { display: block; text-align: center; background: var(--accent); color: white; padding: 12px; border-radius: 10px; text-decoration: none; font-weight: 600; }
+        .plan .get-btn:hover { opacity: 0.9; }
+        .plan.free-plan { border-color: #22c55e; }
+        .plan.free-plan h3 { color: var(--green); }
+        .plan.free-plan .get-btn { background: var(--surface); border: 1px solid var(--green); color: var(--green); }
+        
+        /* Features */
+        .features { padding: 40px 0 80px; }
+        .features h2 { text-align: center; font-size: 2rem; margin-bottom: 40px; }
+        .feat-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+        .feat { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 24px; }
+        .feat h4 { font-size: 1rem; margin-bottom: 8px; }
+        .feat p { color: var(--muted); font-size: 0.9rem; }
+        
+        /* Social proof */
+        .social { background: var(--surface); border: 1px solid var(--border); border-radius: 16px; padding: 32px; margin: 40px 0; text-align: center; }
+        .social h3 { font-size: 1.5rem; margin-bottom: 8px; }
+        .social p { color: var(--muted); }
+        .social .big { font-size: 3rem; font-weight: 800; color: var(--accent); margin: 16px 0; }
+        
+        /* Footer */
+        footer { border-top: 1px solid var(--border); padding: 32px 0; text-align: center; color: var(--muted); font-size: 0.85rem; }
+        footer a { color: var(--accent); text-decoration: none; }
+        
+        @media (max-width: 640px) {
+            .hero h1 { font-size: 2rem; }
+            .pricing-grid, .feat-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <div class="wrap">
+        <nav>
+            <div class="logo">PrivacyAI</div>
+            <div><a href="/docs">API Docs</a> <a href="/tools/clean" class="cta">Try Free</a></div>
+        </nav>
+        
+        <section class="hero">
+            <h1>AI That <span class="gradient">Never Sees</span><br>Your Data</h1>
+            <p>Privacy-first AI tools that run entirely on your server. No API keys, no data sent to third parties, no subscriptions. Just privacy, guaranteed.</p>
+            <div class="buttons">
+                <a href="/tools/clean" class="btn btn-primary">Try Free Tools</a>
+                <a href="#pricing" class="btn btn-secondary">View Pricing</a>
+            </div>
+        </section>
+        
+        <section class="features" id="features">
+            <h2>6 Tools, 100% Private</h2>
+            <div class="feat-grid">
+                <div class="feat"><h4>Privacy Cleaner</h4><p>Remove all PII from documents instantly. Names, emails, phones, addresses gone in one click.</p></div>
+                <div class="feat"><h4>AI Summarizer</h4><p>Summarize any text to short, medium, or long length. Perfect for processing reports and emails.</p></div>
+                <div class="feat"><h4>Smart Redactor</h4><p>Redact specific data types selectively. Remove emails only, or names only, or financial data.</p></div>
+                <div class="feat"><h4>Email Generator</h4><p>Generate professional emails from simple context. Multiple tones: professional, friendly, urgent.</p></div>
+                <div class="feat"><h4>Privacy Checker</h4><p>Scan any text for privacy risks and get a score with specific recommendations.</p></div>
+                <div class="feat"><h4>Batch Processor</h4><p>Process up to 20 texts at once. Bulk clean, summarize, or analyze documents.</p></div>
+            </div>
+        </section>
+        
+        <div class="social">
+            <h3>Why Go Local?</h3>
+            <div class="big">$0</div>
+            <p>per month in API costs. Run unlimited requests on your own hardware.</p>
+        </div>
+        
+        <section class="pricing" id="pricing">
+            <h2>Simple Pricing</h2>
+            <div class="pricing-grid">
+                <div class="plan free-plan">
+                    <h3>Free</h3>
+                    <div class="price">$0 <span>/mo</span></div>
+                    <div class="per">Forever free</div>
+                    <ul>
+                        <li>50 requests/day</li>
+                        <li>All 6 tools</li>
+                        <li>Self-hosted only</li>
+                        <li>Community support</li>
+                    </ul>
+                    <a href="https://github.com" class="get-btn">Deploy Free</a>
+                </div>
+                <div class="plan featured">
+                    <span class="badge">MOST POPULAR</span>
+                    <h3>Pro</h3>
+                    <div class="price">$9 <span>/mo</span></div>
+                    <div class="per">or $89/year (save 17%)</div>
+                    <ul>
+                        <li>5,000 requests/day</li>
+                        <li>Priority AI speed</li>
+                        <li>All 6 tools</li>
+                        <li>Email support</li>
+                        <li>Usage dashboard</li>
+                    </ul>
+                    <a href="#" class="get-btn">Coming Soon</a>
+                </div>
+                <div class="plan">
+                    <h3>Team</h3>
+                    <div class="price">$29 <span>/mo</span></div>
+                    <div class="per">per team (up to 10 users)</div>
+                    <ul>
+                        <li>Unlimited requests</li>
+                        <li>API access</li>
+                        <li>Team management</li>
+                        <li>SLA guarantee</li>
+                        <li>Dedicated support</li>
+                    </ul>
+                    <a href="#" class="get-btn">Coming Soon</a>
+                </div>
+            </div>
+        </section>
+        
+        <section style="background: var(--surface); border: 1px solid var(--border); border-radius: 16px; padding: 32px; margin: 40px 0; text-align: center;">
+            <h3 style="font-size: 1.3rem; margin-bottom: 12px;">Deploy in 60 Seconds</h3>
+            <p style="color: var(--muted); margin-bottom: 20px;">One Docker command to run on your own server. Zero configuration needed.</p>
+            <div style="background: #030712; padding: 16px 20px; border-radius: 10px; font-family: monospace; text-align: left; font-size: 0.9rem; color: #22c55e; overflow-x: auto;">
+                $ docker run -p 8000:8000 privacyai/toolkit
+            </div>
+            <p style="color: var(--muted); font-size: 0.85rem; margin-top: 12px;">Available on Docker Hub and GitHub Container Registry</p>
+        </section>
+        
+        <footer>
+            <p>PrivacyAI Toolkit &middot; Open Source &middot; <a href="https://github.com">GitHub</a></p>
+            <p style="margin-top: 8px;">Built with Ollama &middot; Zero API costs &middot; 100% private</p>
+        </footer>
+    </div>
+</body>
+</html>
