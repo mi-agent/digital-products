@@ -1,4 +1,4 @@
-# Daily Income Radar - 2026-11-09
+# Daily Income Radar - 2026-11-10
 
 Auto-generated from free public APIs (Hacker News Algolia). Zero cost, no keys.
 
@@ -33,6 +33,7 @@ AI content farms, Etsy bulk AI, KDP AI books, C-end Skill retail, large enterpri
 - [What I had to unlearn as a perfectionist before I could ship](https://news.ycombinator.com/item?id=48774284) - 2 pts - 2026-07-03 - query: indie hacker MRR
 - [Show HN: PremiumFlow – Track true cost basis for the "Wheel" strategy and LEAPS](https://premiumflow.base44.app/) - 2 pts - 2025-12-23 - query: passive income automation
 - [Have you had a chance to make passive streams of income while you sleep?](https://news.ycombinator.com/item?id=23015693) - 2 pts - 2020-04-29 - query: passive income automation
+- [Using Automation to Generate $300/mo in Passive Income](https://www.indiehackers.com/interview/hacker-news-books-f722392b01) - 2 pts - 2018-02-26 - query: passive income automation
 - [Show HN: Web Analytics Focused on Revenue](https://revscope.co/demo/) - 1 pts - 2026-10-04 - query: side project revenue
 - [Show HN: IP to Company API – turn any IP into business data](https://elioplus.com/ip-to-company-api) - 1 pts - 2026-09-11 - query: side project revenue
 - [Show HN: Rewire Text – system-wide text transforms with BYOK and local-models](https://sunsetmesasoftware.com/rewire-text/) - 1 pts - 2026-07-07 - query: side project revenue
@@ -43,7 +44,6 @@ AI content farms, Etsy bulk AI, KDP AI books, C-end Skill retail, large enterpri
 - [Ask HN: Show your micro-SaaS (October 2026)](https://news.ycombinator.com/item?id=49922837) - 1 pts - 2026-10-01 - query: micro saas
 - [ExitLaunch – A hand-vetted directory of active Micro-SaaS buyers](https://docs.google.com/spreadsheets/d/16pkNcl33UulKELXCsvXf0oJzUbcVQ1iHTvoLC5kV_0s/edit?usp=sharing) - 1 pts - 2026-09-01 - query: micro saas
 - [Promises of 'passive income' on Amazon led to death threats for negative review](https://www.cnbc.com/2024/09/25/amazon-automation-scammers-sued-by-ftc-for-false-claims-death-threats.html) - 1 pts - 2024-09-26 - query: passive income automation
-- [Finnly, the automated trading bot for everyday people](https://news.ycombinator.com/item?id=22349484) - 1 pts - 2020-02-17 - query: passive income automation
 
 ---
 *Only signals, not verified revenue. Verify before acting.*
