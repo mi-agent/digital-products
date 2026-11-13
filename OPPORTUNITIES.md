@@ -1,4 +1,4 @@
-# Daily Income Radar - 2026-11-12
+# Daily Income Radar - 2026-11-13
 
 Auto-generated from free public APIs (Hacker News Algolia). Zero cost, no keys.
 
@@ -14,10 +14,10 @@ AI content farms, Etsy bulk AI, KDP AI books, C-end Skill retail, large enterpri
 
 ## Latest signals (31)
 
-- [Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://news.ycombinator.com/item?id=49543530) - 119 pts - 2026-09-02 - query: side project revenue
 - [Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com) - 85 pts - 2026-07-27 - query: side project revenue
 - [Ask HN: Do you have side-projects that generate >$500 revenue/month?](https://news.ycombinator.com/item?id=50293459) - 41 pts - 2026-10-29 - query: side project revenue
 - [Ask HN: Show your micro-SaaS](https://news.ycombinator.com/item?id=49590656) - 30 pts - 2026-09-06 - query: micro saas
+- [Ask HN: I'm struggling and need some advice](https://news.ycombinator.com/item?id=1892205) - 17 pts - 2010-11-10 - query: passive income automation
 - [Ask HN: Show your micro-SaaS / MRR updates (August 2026)](https://news.ycombinator.com/item?id=49181766) - 13 pts - 2026-08-05 - query: indie hacker MRR
 - [Promises of 'passive income' on Amazon led to death threats for online review](https://www.cnbc.com/2024/09/25/amazon-automation-scammers-sued-by-ftc-for-false-claims-death-threats.html) - 6 pts - 2024-09-26 - query: passive income automation
 - [Show HN: Mochi Analytics](https://www.mochianalytics.com) - 4 pts - 2026-07-06 - query: indie hacker MRR
@@ -32,12 +32,12 @@ AI content farms, Etsy bulk AI, KDP AI books, C-end Skill retail, large enterpri
 - [Show HN: Find what users want by analyzing app reviews](https://seam.obverselabs.com/) - 2 pts - 2026-08-04 - query: indie hacker MRR
 - [What I had to unlearn as a perfectionist before I could ship](https://news.ycombinator.com/item?id=48774284) - 2 pts - 2026-07-03 - query: indie hacker MRR
 - [Show HN: I built a $9 Ahrefs alternative because raw SEO data is cheap](https://idiotproofseo.com/) - 2 pts - 2026-04-05 - query: indie hacker MRR
-- [Show HN: PremiumFlow – Track true cost basis for the "Wheel" strategy and LEAPS](https://premiumflow.base44.app/) - 2 pts - 2025-12-23 - query: passive income automation
 - [Have you had a chance to make passive streams of income while you sleep?](https://news.ycombinator.com/item?id=23015693) - 2 pts - 2020-04-29 - query: passive income automation
 - [Using Automation to Generate $300/mo in Passive Income](https://www.indiehackers.com/interview/hacker-news-books-f722392b01) - 2 pts - 2018-02-26 - query: passive income automation
-- [Show HN: Collection of Beauty–a walkable 3D museum of public-domain art](https://collectionofbeauty.com/gallery-3d) - 1 pts - 2026-11-11 - query: side project revenue
+- [Show HN: Upstar, GitHub projects ranked by velocity in each topics](https://upstar.dev/) - 1 pts - 2026-11-12 - query: side project revenue
 - [Show HN: Web Analytics Focused on Revenue](https://revscope.co/demo/) - 1 pts - 2026-10-04 - query: side project revenue
 - [Show HN: IP to Company API – turn any IP into business data](https://elioplus.com/ip-to-company-api) - 1 pts - 2026-09-11 - query: side project revenue
+- [Show HN: Rewire Text – system-wide text transforms with BYOK and local-models](https://sunsetmesasoftware.com/rewire-text/) - 1 pts - 2026-07-07 - query: side project revenue
 - [Show HN: Deploylist – StumbleUpon feed for upvoted web projects on HN and Reddit](https://deploylist.com/) - 1 pts - 2026-10-06 - query: indie hacker MRR
 - [My micro SaaS of $600k ARR is looking for a Founding Engineer for a pivot](https://bluemate.nl) - 1 pts - 2026-10-29 - query: micro saas
 - [PyForge – Lightweight, zero-dependency Python and Go utilities for micro-SaaS](https://py-forge.com/) - 1 pts - 2026-10-15 - query: micro saas
