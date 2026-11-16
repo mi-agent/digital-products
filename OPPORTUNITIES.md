@@ -1,4 +1,4 @@
-# Daily Income Radar - 2026-11-15
+# Daily Income Radar - 2026-11-16
 
 Auto-generated from free public APIs (Hacker News Algolia). Zero cost, no keys.
 
@@ -12,29 +12,29 @@ Auto-generated from free public APIs (Hacker News Algolia). Zero cost, no keys.
 ## Rejected by default
 AI content farms, Etsy bulk AI, KDP AI books, C-end Skill retail, large enterprise custom builds, AI bug bounty, pure affiliate.
 
-## Latest signals (30)
+## Latest signals (31)
 
+- [Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal) - 493 pts - 2026-11-15 - query: micro saas
 - [Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com) - 85 pts - 2026-07-27 - query: side project revenue
 - [Ask HN: Do you have side-projects that generate >$500 revenue/month?](https://news.ycombinator.com/item?id=50293459) - 41 pts - 2026-10-29 - query: side project revenue
-- [Ask HN: Show your micro-SaaS](https://news.ycombinator.com/item?id=49590656) - 30 pts - 2026-09-06 - query: micro saas
-- [Ask HN: I'm struggling and need some advice](https://news.ycombinator.com/item?id=1892205) - 17 pts - 2010-11-10 - query: passive income automation
 - [Ask HN: Show your micro-SaaS / MRR updates (August 2026)](https://news.ycombinator.com/item?id=49181766) - 13 pts - 2026-08-05 - query: indie hacker MRR
+- [Samsung, SK Hynix, and Micron Fail to Get DRAM Antitrust Suit Dismissed](https://www.techpowerup.com/354863/samsung-sk-hynix-and-micron-fail-to-get-dram-antitrust-suit-dismissed) - 9 pts - 2026-11-15 - query: micro saas
 - [Promises of 'passive income' on Amazon led to death threats for online review](https://www.cnbc.com/2024/09/25/amazon-automation-scammers-sued-by-ftc-for-false-claims-death-threats.html) - 6 pts - 2024-09-26 - query: passive income automation
-- [Show HN: Mochi Analytics](https://www.mochianalytics.com) - 4 pts - 2026-07-06 - query: side project revenue
+- [Show HN: Mochi Analytics](https://www.mochianalytics.com) - 4 pts - 2026-07-06 - query: indie hacker MRR
 - [Show HN: Make regular passive income developing web automation actors](https://blog.apify.com/make-regular-passive-income-developing-web-automation-actors-b0392278d085) - 4 pts - 2021-04-27 - query: passive income automation
 - [Ask HN: I'm 52 and my technical skill stopped being a moat. What now?](https://news.ycombinator.com/item?id=49098381) - 3 pts - 2026-07-29 - query: side project revenue
 - [Show HN: Radian, an agent puts development workflow on autopilot](https://getrad.dev) - 3 pts - 2026-10-25 - query: indie hacker MRR
 - [Ask HN: Show your micro-SaaS (November 2026)](https://news.ycombinator.com/item?id=50329077) - 3 pts - 2026-11-01 - query: micro saas
 - [Ask HN: Who Has Automated Their Side Hustle? How Did You Do It?](https://news.ycombinator.com/item?id=42086415) - 3 pts - 2024-11-08 - query: passive income automation
 - [Get passive income building actors: Pays more than open source, easier than SaaS](https://blog.apify.com/make-regular-passive-income-developing-web-automation-actors-b0392278d085) - 3 pts - 2021-05-03 - query: passive income automation
+- [Show HN: Collection of Beauty–a walkable 3D museum of public-domain art](https://collectionofbeauty.com/gallery-3d) - 2 pts - 2026-11-11 - query: side project revenue
 - [Show HN: OctoLoops – automated marketing for indie devs](https://octoloops.com) - 2 pts - 2026-09-02 - query: side project revenue
 - [Show HN: Aurabid, pay more to get ranked #1 and beat others](https://aurabid.now/) - 2 pts - 2026-08-22 - query: indie hacker MRR
 - [Show HN: Find what users want by analyzing app reviews](https://seam.obverselabs.com/) - 2 pts - 2026-08-04 - query: indie hacker MRR
 - [What I had to unlearn as a perfectionist before I could ship](https://news.ycombinator.com/item?id=48774284) - 2 pts - 2026-07-03 - query: indie hacker MRR
 - [Show HN: I built a $9 Ahrefs alternative because raw SEO data is cheap](https://idiotproofseo.com/) - 2 pts - 2026-04-05 - query: indie hacker MRR
-- [Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal) - 2 pts - 2026-11-15 - query: micro saas
+- [Show HN: PremiumFlow – Track true cost basis for the "Wheel" strategy and LEAPS](https://premiumflow.base44.app/) - 2 pts - 2025-12-23 - query: passive income automation
 - [Have you had a chance to make passive streams of income while you sleep?](https://news.ycombinator.com/item?id=23015693) - 2 pts - 2020-04-29 - query: passive income automation
-- [Using Automation to Generate $300/mo in Passive Income](https://www.indiehackers.com/interview/hacker-news-books-f722392b01) - 2 pts - 2018-02-26 - query: passive income automation
 - [Show HN: Web Analytics Focused on Revenue](https://revscope.co/demo/) - 1 pts - 2026-10-04 - query: side project revenue
 - [Show HN: IP to Company API – turn any IP into business data](https://elioplus.com/ip-to-company-api) - 1 pts - 2026-09-11 - query: side project revenue
 - [Show HN: Rewire Text – system-wide text transforms with BYOK and local-models](https://sunsetmesasoftware.com/rewire-text/) - 1 pts - 2026-07-07 - query: side project revenue
