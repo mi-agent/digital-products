@@ -1,4 +1,4 @@
-# Daily Income Radar - 2026-11-23
+# Daily Income Radar - 2026-11-24
 
 Auto-generated from free public APIs (Hacker News Algolia). Zero cost, no keys.
 
@@ -19,11 +19,11 @@ AI content farms, Etsy bulk AI, KDP AI books, C-end Skill retail, large enterpri
 - [Ask HN: Do you have side-projects that generate >$500 revenue/month?](https://news.ycombinator.com/item?id=50293459) - 41 pts - 2026-10-29 - query: side project revenue
 - [Ask HN: Show your micro-SaaS / MRR updates (August 2026)](https://news.ycombinator.com/item?id=49181766) - 13 pts - 2026-08-05 - query: indie hacker MRR
 - [Promises of 'passive income' on Amazon led to death threats for online review](https://www.cnbc.com/2024/09/25/amazon-automation-scammers-sued-by-ftc-for-false-claims-death-threats.html) - 6 pts - 2024-09-26 - query: passive income automation
+- [Judge denies motion to dismiss DRAM price-fixing lawsuit](https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge) - 5 pts - 2026-11-23 - query: micro saas
 - [Show HN: Mochi Analytics](https://www.mochianalytics.com) - 4 pts - 2026-07-06 - query: indie hacker MRR
 - [Show HN: Make regular passive income developing web automation actors](https://blog.apify.com/make-regular-passive-income-developing-web-automation-actors-b0392278d085) - 4 pts - 2021-04-27 - query: passive income automation
 - [Ask HN: I'm 52 and my technical skill stopped being a moat. What now?](https://news.ycombinator.com/item?id=49098381) - 3 pts - 2026-07-29 - query: side project revenue
 - [Show HN: Radian, an agent puts development workflow on autopilot](https://getrad.dev) - 3 pts - 2026-10-25 - query: indie hacker MRR
-- [Judge denies motion to dismiss DRAM price-fixing lawsuit](https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge) - 3 pts - 2026-11-23 - query: micro saas
 - [Ask HN: Show your micro-SaaS (November 2026)](https://news.ycombinator.com/item?id=50329077) - 3 pts - 2026-11-01 - query: micro saas
 - [Ask HN: Who Has Automated Their Side Hustle? How Did You Do It?](https://news.ycombinator.com/item?id=42086415) - 3 pts - 2024-11-08 - query: passive income automation
 - [Get passive income building actors: Pays more than open source, easier than SaaS](https://blog.apify.com/make-regular-passive-income-developing-web-automation-actors-b0392278d085) - 3 pts - 2021-05-03 - query: passive income automation
