@@ -1,4 +1,4 @@
-# Daily Income Radar - 2026-11-25
+# Daily Income Radar - 2026-11-26
 
 Auto-generated from free public APIs (Hacker News Algolia). Zero cost, no keys.
 
@@ -32,8 +32,8 @@ AI content farms, Etsy bulk AI, KDP AI books, C-end Skill retail, large enterpri
 - [Show HN: Find what users want by analyzing app reviews](https://seam.obverselabs.com/) - 2 pts - 2026-08-04 - query: indie hacker MRR
 - [What I had to unlearn as a perfectionist before I could ship](https://news.ycombinator.com/item?id=48774284) - 2 pts - 2026-07-03 - query: indie hacker MRR
 - [Show HN: I built a $9 Ahrefs alternative because raw SEO data is cheap](https://idiotproofseo.com/) - 2 pts - 2026-04-05 - query: indie hacker MRR
-- [Show HN: PremiumFlow – Track true cost basis for the "Wheel" strategy and LEAPS](https://premiumflow.base44.app/) - 2 pts - 2025-12-23 - query: passive income automation
 - [Have you had a chance to make passive streams of income while you sleep?](https://news.ycombinator.com/item?id=23015693) - 2 pts - 2020-04-29 - query: passive income automation
+- [Using Automation to Generate $300/mo in Passive Income](https://www.indiehackers.com/interview/hacker-news-books-f722392b01) - 2 pts - 2018-02-26 - query: passive income automation
 - [Show HN: Web Analytics Focused on Revenue](https://revscope.co/demo/) - 1 pts - 2026-10-04 - query: side project revenue
 - [Show HN: IP to Company API – turn any IP into business data](https://elioplus.com/ip-to-company-api) - 1 pts - 2026-09-11 - query: side project revenue
 - [Tell HN: The Thoughts and Woes of a Full-Time Founder Part 2](https://news.ycombinator.com/item?id=49571763) - 1 pts - 2026-09-05 - query: side project revenue
