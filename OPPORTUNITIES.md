@@ -1,4 +1,4 @@
-# Daily Income Radar - 2026-11-26
+# Daily Income Radar - 2026-11-27
 
 Auto-generated from free public APIs (Hacker News Algolia). Zero cost, no keys.
 
@@ -14,9 +14,11 @@ AI content farms, Etsy bulk AI, KDP AI books, C-end Skill retail, large enterpri
 
 ## Latest signals (31)
 
+- [Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal) - 538 pts - 2026-11-15 - query: micro saas
 - [Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com) - 85 pts - 2026-07-27 - query: side project revenue
 - [Ask HN: Do you have side-projects that generate >$500 revenue/month?](https://news.ycombinator.com/item?id=50293459) - 41 pts - 2026-10-29 - query: side project revenue
 - [Ask HN: Show your micro-SaaS](https://news.ycombinator.com/item?id=49590656) - 30 pts - 2026-09-06 - query: micro saas
+- [Ask HN: I'm struggling and need some advice](https://news.ycombinator.com/item?id=1892205) - 17 pts - 2010-11-10 - query: passive income automation
 - [Ask HN: Show your micro-SaaS / MRR updates (August 2026)](https://news.ycombinator.com/item?id=49181766) - 13 pts - 2026-08-05 - query: indie hacker MRR
 - [Promises of 'passive income' on Amazon led to death threats for online review](https://www.cnbc.com/2024/09/25/amazon-automation-scammers-sued-by-ftc-for-false-claims-death-threats.html) - 6 pts - 2024-09-26 - query: passive income automation
 - [Show HN: Mochi Analytics](https://www.mochianalytics.com) - 4 pts - 2026-07-06 - query: indie hacker MRR
@@ -36,14 +38,12 @@ AI content farms, Etsy bulk AI, KDP AI books, C-end Skill retail, large enterpri
 - [Using Automation to Generate $300/mo in Passive Income](https://www.indiehackers.com/interview/hacker-news-books-f722392b01) - 2 pts - 2018-02-26 - query: passive income automation
 - [Show HN: Web Analytics Focused on Revenue](https://revscope.co/demo/) - 1 pts - 2026-10-04 - query: side project revenue
 - [Show HN: IP to Company API – turn any IP into business data](https://elioplus.com/ip-to-company-api) - 1 pts - 2026-09-11 - query: side project revenue
-- [Tell HN: The Thoughts and Woes of a Full-Time Founder Part 2](https://news.ycombinator.com/item?id=49571763) - 1 pts - 2026-09-05 - query: side project revenue
+- [Show HN: Rewire Text – system-wide text transforms with BYOK and local-models](https://sunsetmesasoftware.com/rewire-text/) - 1 pts - 2026-07-07 - query: side project revenue
 - [Show HN: Deploylist – StumbleUpon feed for upvoted web projects on HN and Reddit](https://deploylist.com/) - 1 pts - 2026-10-06 - query: indie hacker MRR
 - [My micro SaaS of $600k ARR is looking for a Founding Engineer for a pivot](https://bluemate.nl) - 1 pts - 2026-10-29 - query: micro saas
 - [PyForge – Lightweight, zero-dependency Python and Go utilities for micro-SaaS](https://py-forge.com/) - 1 pts - 2026-10-15 - query: micro saas
 - [Show HN: I run five micro-SaaS products on one Mac Mini, billed in USDC](https://store.watchtbot.site) - 1 pts - 2026-10-05 - query: micro saas
 - [Ask HN: Show your micro-SaaS (October 2026)](https://news.ycombinator.com/item?id=49922837) - 1 pts - 2026-10-01 - query: micro saas
-- [ExitLaunch – A hand-vetted directory of active Micro-SaaS buyers](https://docs.google.com/spreadsheets/d/16pkNcl33UulKELXCsvXf0oJzUbcVQ1iHTvoLC5kV_0s/edit?usp=sharing) - 1 pts - 2026-09-01 - query: micro saas
-- [Promises of 'passive income' on Amazon led to death threats for negative review](https://www.cnbc.com/2024/09/25/amazon-automation-scammers-sued-by-ftc-for-false-claims-death-threats.html) - 1 pts - 2024-09-26 - query: passive income automation
 
 ---
 *Only signals, not verified revenue. Verify before acting.*
